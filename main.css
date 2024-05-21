@@ -1,0 +1,29 @@
+/* main.css content */
+body {
+    background-color: #f0f0f0; /* Light grey background */
+    color: red; /* Red text color for the body */
+}
+
+header {
+    text-align: center;
+    color: red; /* Red text color for the header */
+}
+
+#memeImage {
+    margin-right: 200px;
+}
+
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+    color: red; /* Red text color for the navigation */
+}
+
+footer {
+    text-align: center;
+    margin-right: 200px;
+    color: red; /* Red text color for the footer */
+}
